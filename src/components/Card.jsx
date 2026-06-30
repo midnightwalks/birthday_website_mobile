@@ -53,7 +53,7 @@ function Card() {
 
         <div id="card-front">
           <div className="wrap">
-            <h1>Happy Birthday!</h1>
+            <h1>happy birthday cayaang</h1>
           </div>
         </div>
     </div>
