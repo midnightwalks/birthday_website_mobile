@@ -28,7 +28,7 @@ function Picture() {
     <SectionWrapper>
       <Link to="/card">
         <p className="absolute inset-0 flex justify-center items-center text-center text-4xl font-bold text-customBlue transform rotate-6 cursor-pointer">
-          uwu my boy is 23 year old now
+          uwu my boy is 23 years old now
         </p>
       </Link>
 
