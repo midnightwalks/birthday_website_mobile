@@ -42,7 +42,7 @@ function Card() {
               semoga semua hal yang kamu semogakan bisa terkabul yaaa. hoping the best for your career and life!
             </p>
             <p>
-             i hope you have a very blessed birthday! <3
+             i hope you have a very blessed birthday! &lt;3
             </p>
             <p>
               i love you always my dudu, my cowokkk. GBU~
