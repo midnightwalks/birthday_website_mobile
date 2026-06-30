@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import picture1 from '../assets/picture1.jpg';
-import picture2 from '../assets/picture2.jpg';
-import picture3 from '../assets/picture3.jpg';
-import picture4 from '../assets/picture4.jpg';
+import picture1 from '../assets/picture1.jpeg';
+import picture2 from '../assets/picture2.jpeg';
+import picture3 from '../assets/picture3.jpeg';
+import picture4 from '../assets/picture4.jpeg';
 import { Link } from 'react-router-dom';
 import SectionWrapper from './SectionWrapper';
 
